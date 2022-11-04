@@ -1,2 +1,6 @@
-# p1-parcial1-dwt3ah-quinteros-matias.rar
- Parcial 1 AWP
+# Parcial 1 - Aplicaciones Web Progresivas
+## Consumo de API
+
+- Alumno: Matías Agustín Quinteros
+- Comisión: DWT3AH
+
